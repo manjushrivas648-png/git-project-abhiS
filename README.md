@@ -10,8 +10,3 @@ Hi this is Abhi form indore, currently learning Ai and Ml for upgrad school of t
 - LMS: one line about it
 - USM: one line about it
 
-## social links
-- git hub: http://github.com/
-- LinkedIn: https://linkedin.com
-
-
