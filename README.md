@@ -9,4 +9,7 @@ Hi this is Abhi form indore, currently learning Ai and Ml for upgrad school of t
 ## Project section
 - LMS: one line about it
 - USM: one line about it
+## contact
+- email: abhishrivas958@gmail.com
+
 
