@@ -1,0 +1,7 @@
+# Abhi Shrivas
+## About me
+Hi this is Abhi form indore, currently learning Ai and Ml for upgrad school of thechnology.
+## Skills
+- Communication
+- Problem soliving
+-  Basic Git
